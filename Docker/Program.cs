@@ -19,6 +19,7 @@ namespace Docker
                 .Build();
 
             host.Run();
+
         }
     }
 }
